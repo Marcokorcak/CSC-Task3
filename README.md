@@ -20,24 +20,21 @@ Fully functioning error state that occurs when a user tries to add or multiply a
 
 <img src="https://user-images.githubusercontent.com/77298953/218942811-01ff18aa-c1ce-49cd-96f3-999b8f2f6e97.png" width=60% height=60%>
 
-The image above shows the result when clicking the reduce
+The image above shows the result when clicking the reduce button
 
-<img src="https://user-images.githubusercontent.com/77298953/215660619-1cfbf3ec-efa4-4c9a-851c-f977e5c4aed5.png" width=60% height=60%>
 
-The image above shows the result when doing mutiplication
+<img src="https://user-images.githubusercontent.com/77298953/218942986-c3bd964e-7253-431f-90f6-318fc88114ed.png" width=60% height=60%>
 
-## Extra Credit
+The image above shows the result when clicking the map button
 
- * Bonus acceptance criteria:
-Fully functioning error state that occurs when a user tries to add or multiply and there is no value in either of the inputs
+<img src="https://user-images.githubusercontent.com/77298953/218943087-2a710682-7ef5-44d3-8cab-30faccf59d2b.png" width=60% height=60%>
 
-<img src="https://user-images.githubusercontent.com/77298953/215660881-21db1069-c69b-4f52-bd21-c698fce85b70.png" width=60% height=60%>
+The image above shows the result when clicking the sort button
 
-The image above shows that a alert is thrown when only one of the input feilds has a value and the other doesnt 
+<img src="https://user-images.githubusercontent.com/77298953/218943173-e63f333f-a2aa-4bd6-8013-7a78d128deae.png" width=60% height=60%>
 
-<img src="https://user-images.githubusercontent.com/77298953/215661061-92d59e62-d0ba-442d-bc80-846775e58a0d.png" width=60% height=60%>
+The image above shows the result when clicking the filter button
 
-The image above shows that a alert is thrown when none of the input feilds have a value
 
 
 
