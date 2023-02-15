@@ -3,7 +3,6 @@
 ## Table of contents  
 * [Task Description](#Task-description)
 * [Screenshots](#Screenshots)
-* [Extra Credit](#Extra-Credit)
 
 
 ## Task Description
