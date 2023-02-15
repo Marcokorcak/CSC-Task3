@@ -22,8 +22,7 @@ Fully functioning error state that occurs when a user tries to add or multiply a
 
 The image above shows the result when clicking the reduce button
 
-
-<img src="https://user-images.githubusercontent.com/77298953/218942986-c3bd964e-7253-431f-90f6-318fc88114ed.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/77298953/218943304-cdbee997-6e81-4ed5-bf66-0c927ae581d3.png" width=60% height=60%>
 
 The image above shows the result when clicking the map button
 
