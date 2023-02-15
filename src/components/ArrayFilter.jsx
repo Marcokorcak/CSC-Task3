@@ -10,8 +10,9 @@ const ArrayFilter = () => {
         }
 
         {
-         products.filter( item => item.onSale != false).map(({id, name}) => <li key={id}>{name}</li>) 
+         products.filter( item => item.onSale != false).map(({id, name, price}) => <li key={id}>The {name} and it costs ${price}</li>) 
         }
+
     </div>
 }
 
