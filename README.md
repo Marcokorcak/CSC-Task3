@@ -7,14 +7,15 @@
 
 
 ## Task Description
+Scenario: You are working on an e-commerce website where users can purchase products. The website stores the products in an array of objects.
 
-* A button exists that is titled “Multiply”
-    *This button should be next to the add button
-* A named export should be used to handle the multiplication (similar to the add function)
-* Clicking on the button will result in the two numbers being multiplied together and output in the #result
-* The user should know if the number in the #result is a result of adding or multiplying
- * Bonus acceptance criteria:
-Fully functioning error state that occurs when a user tries to add or multiply and there is no value in either of the inputs
+1. Create a separate React component pulling in the data from an imported file and using Array.reduce(), calculate the total cost of all the products in the array.
+
+2. Create a separate React component pulling in the data from an imported file and using Array.map(), render a list of all the product names on the website.
+
+3. Create a separate React component pulling in the data from an imported file and using Array.sort(), sort the products in the array by their price in ascending order.
+
+4. Create a separate React component pulling in the data from an imported file and using Array.filter(), create a new array that only includes the products that are on sale. Render the sale products in a list on the website.
 
 ## Screenshots
 
